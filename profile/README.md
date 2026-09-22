@@ -15,7 +15,7 @@ predição do preço do diesel S-10 — para quem compra litro não decidir no a
 
 <br/>
 
-`Python` · `Vue.js` · `Flutter` · `PostgreSQL` · `Docker` · `AWS`
+`Python` · `Vue.js` · `Flutter` · `PostgreSQL` · `Docker` · `Cloudflare`
 
 </div>
 
@@ -63,7 +63,7 @@ A **Atlas Predições** junta as duas pontas num só produto:
 | **Banco de dados** | PostgreSQL (Neon) |
 | **Storage** | Cloudflare R2 |
 | **Containers** | Docker / Docker Compose |
-| **Produção** | AWS — Ubuntu Server LTS |
+| **Produção** | Cloudflare |
 | **Homologação** | Oracle Cloud — Oracle Linux |
 
 **Como trabalhamos:** Conventional Commits, revisão por Pull Request,
