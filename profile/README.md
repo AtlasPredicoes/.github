@@ -15,7 +15,7 @@ predição do preço do diesel S-10 — para quem compra litro não decidir no a
 
 <br/>
 
-`Go` · `Vue.js` · `Flutter` · `PostgreSQL` · `Docker` · `AWS`
+`Python` · `Vue.js` · `Flutter` · `PostgreSQL` · `Docker` · `AWS`
 
 </div>
 
@@ -57,7 +57,7 @@ A **Atlas Predições** junta as duas pontas num só produto:
 
 | Camada | Tecnologia |
 |---|---|
-| **Backend / APIs** | Go (Golang) — microsserviços |
+| **Backend / APIs** | Python — microsserviços |
 | **Frontend web** | Vue.js |
 | **Mobile** | Flutter |
 | **Banco de dados** | PostgreSQL (Neon) |
@@ -76,11 +76,11 @@ fase a fase.
 
 | Pessoa | Responsabilidade |
 |---|---|
-| **Wesley Barbaro** | DevOps, infraestrutura, cibersegurança e LGPD |
-| **João Mascarello** | Backend em Go, microsserviços e modelagem de dados |
-| **Pablo De Oliveira** | Frontend Vue.js |
-| **Wendel** | Frontend Vue.js e mobile Flutter |
-| **Gabriela Lenz** | UX/UI, design de interfaces e prototipação |
+| **Pablo De Oliveira** | Tech Lead · Frontend e Mobile |
+| **Wendel** | Frontend |
+| **Gabriela Lenz** | Frontend |
+| **Wesley Barbaro** | Backend e DevOps |
+| **João Mascarello** | Backend e DevOps |
 
 ---
 
